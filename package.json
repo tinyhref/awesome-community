@@ -1,0 +1,21 @@
+{
+  "name": "awesome-community",
+  "version": "0.0.0",
+  "description": "Awesome list community from 500link.com",
+  "keywords": [
+    "awesome-community",
+    "awesome",
+    "lists",
+    "500link",
+    "tinyhref"
+  ],
+  "license": "MIT",
+  "author": {
+    "name": "500link.com",
+    "website": "https://500link.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tinyhref/awesome-community"
+  }
+}
